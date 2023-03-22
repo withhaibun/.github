@@ -1,3 +1,3 @@
 # withhaibun
 
-This is the organization for the Haibun natural language, implementation agnostic approach to specification and testing.
+This is the organization for Haibun scripted prompt, implementation agnostic specification and testing.
